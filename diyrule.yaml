@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,kin6c1.com
   - PROCESS-NAME,CMSPlayer
   - PROCESS-NAME,CMSPlayer.exe
+  - PROCESS-NAME,HaiwaikanPlayer
+  - PROCESS-NAME,HaiwaikanPlayer.app
+
