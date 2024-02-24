@@ -2,4 +2,7 @@ payload:
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,missav.com
   - DOMAIN-KEYWORD,missav
+  - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-SUFFIX,kin6c1.com
+  - PROCESS-NAME,CMSPlayer
+  - PROCESS-NAME,CMSPlayer.exe
