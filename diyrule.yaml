@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,mushroomtrack.com
   - DOMAIN-SUFFIX,jable.tv
+  - DOMAIN-SUFFIX,misakaf.org
   - PROCESS-NAME,CMSPlayer
   - PROCESS-NAME,CMSPlayer.exe
   - PROCESS-NAME,CMSPlayer.app
