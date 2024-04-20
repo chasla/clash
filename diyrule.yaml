@@ -12,8 +12,3 @@ payload:
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,aca.best
-  - PROCESS-NAME,CMSPlayer
-  - PROCESS-NAME,CMSPlayer.exe
-  - PROCESS-NAME,CMSPlayer.app
-  - PROCESS-NAME,HaiwaikanPlayer
-  - PROCESS-NAME,HaiwaikanPlayer.app
