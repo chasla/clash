@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,surrit.com
   - DOMAIN-SUFFIX,missav.com
+  - DOMAIN-SUFFIX,netflav5.com
+  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-KEYWORD,missav
   - DOMAIN-KEYWORD,haiwaikan
   - DOMAIN-SUFFIX,haiwaikan.com
@@ -9,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,kin6c1.com
   - DOMAIN-SUFFIX,ikzybf.com
   - DOMAIN-SUFFIX,mushroomtrack.com
-  - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-SUFFIX,aca.best
   - DOMAIN-SUFFIX,mius.uk
