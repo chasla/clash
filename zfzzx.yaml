@@ -18,13 +18,16 @@ payload:
   - DOMAIN-SUFFIX,olevod.com
   - DOMAIN-SUFFIX,olemovienews.com
   - DOMAIN-SUFFIX,vdabo.com
+  - DOMAIN-SUFFIX,vdubo.com
   - DOMAIN-SUFFIX,wdubo.com
   - DOMAIN-SUFFIX,gboku.com
-  - DOMAIN-SUFFIX,qboku.com
   - DOMAIN-SUFFIX,tdubo.com
   - DOMAIN-SUFFIX,wdubo.com
   - DOMAIN-SUFFIX,yboku.com
   - DOMAIN-SUFFIX,kdubo.com
   - DOMAIN-SUFFIX,xdubo.com
-  - DOMAIN-SUFFIX,vdubo.com
   - DOMAIN-SUFFIX,qdubo.com
+  - DOMAIN-SUFFIX,qboku.com
+  - DOMAIN-SUFFIX,duboku.net
+  - DOMAIN-SUFFIX,duboku.tv
+  - DOMAIN-SUFFIX,libvio.cc
